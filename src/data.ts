@@ -245,9 +245,8 @@ export const projects = [
       'Modern UI',
       'Resume Download',
     ],
-
-    // Replace with Netlify URL after deployment
-    link: '#',
+    
+    link: 'https://github.com/KarthikBolty/karthik-portfolio.git',
 
     accent: 'from-indigo-500/20 to-crimson-700/10',
   },

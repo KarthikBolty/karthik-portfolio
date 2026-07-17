@@ -30,7 +30,7 @@ export function Experience() {
                   whileInView={{ scale: 1 }}
                   viewport={{ once: true }}
                   transition={{ duration: 0.4, delay: 0.1 }}
-                  className="absolute left-4 top-6 z-10 flex h-4 w-4 -translate-x-1/2 items-center justify-center rounded-full bg-crimson-500 shadow-glow sm:left-1/2"
+                  className="absolute left-1 top-[24px] z-10 flex h-4 w-4 -translate-x-1/2 items-center justify-center rounded-full bg-crimson-500 shadow-glow sm:left-1/2"
                 >
                   <span className="h-2 w-2 rounded-full bg-noir-bg" />
                 </motion.span>
